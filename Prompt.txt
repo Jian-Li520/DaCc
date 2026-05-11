@@ -1,0 +1,8 @@
+第四章节
+
+帮我改写sample-manuscirpt.tex第四章节experiment的内容，首先将大纲改成下面四个部分：
+4.1 Datasets
+4.2 Experimental setup and baselines
+4.3 Main results
+4.4 Ablation study
+请参考NoteMR.pdf论文改写，突出我们方法的优势，先改写一下4.1 Dataset部分的内容给我看看

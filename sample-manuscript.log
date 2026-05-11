@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.20)  7 MAY 2026 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.20)  11 MAY 2026 16:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -909,34 +909,48 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 
 Underfull \vbox (badness 4048) has occurred while \output is active []
 
- [2.2] [3.3]
+ [2.2] [3.3] [4.4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4.4{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}]
+ [5.5{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.6pt on input line 97.
+(Font)              scaled to size 6.6pt on input line 105.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 97.
-<DaCC-4.png, id=111, 1366.10374pt x 1160.335pt>
+(Font)              scaled to size 5.5pt on input line 105.
+<DaCC-4.png, id=118, 1366.10374pt x 1160.335pt>
 File: DaCC-4.png Graphic file (type png)
 <use DaCC-4.png>
-Package pdftex.def Info: DaCC-4.png  used on input line 120.
+Package pdftex.def Info: DaCC-4.png  used on input line 128.
 (pdftex.def)             Requested size: 344.005pt x 292.18996pt.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 121.
+(Font)              scaled to size 8.0pt on input line 129.
 
-Underfull \vbox (badness 1043) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5.5]
-Underfull \vbox (badness 1895) has occurred while \output is active []
-
- [6.6 <./DaCC-4.png (PNG copy)>] [7.7]
-Underfull \vbox (badness 1389) has occurred while \output is active []
+ [6.6] [7.7 <./DaCC-4.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8.8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9.9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10.10]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 300.
+ [11.11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12.12]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 338.
+ [13.13] [14.14{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}] [15.15]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 440.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 5.5pt on input line 440.
+ [16.16] [17.17]
 
 Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 
@@ -944,27 +958,27 @@ Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [10.10] (./sample-manuscript.aux)
+) [18.18] (./sample-manuscript.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `sample-manuscript.out' has not changed.
-(rerunfilecheck)             Checksum: 0A41915355319568A80EC0577526E0D2;2968.
+(rerunfilecheck)             Checksum: F935B394E99A02F304461CFE336C81D6;3137.
  ) 
 Here is how much of TeX's memory you used:
- 21072 strings out of 467525
- 339728 string characters out of 5418982
- 829964 words of memory out of 5000000
- 49107 multiletter control sequences out of 15000+600000
- 770873 words of font info for 316 fonts, out of 8000000 for 9000
+ 21214 strings out of 467525
+ 342823 string characters out of 5418982
+ 832275 words of memory out of 5000000
+ 49129 multiletter control sequences out of 15000+600000
+ 802361 words of font info for 380 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,17n,131p,1208b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathMI5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on sample-manuscript.pdf (10 pages, 1968786 bytes).
+ 90i,17n,131p,1417b,635s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathMI5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathRM.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
+Output written on sample-manuscript.pdf (18 pages, 2098251 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
- 193 compressed objects within 2 object streams
- 55 named destinations out of 1000 (max. 500000)
- 71838 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 319 PDF objects out of 1000 (max. 8388607)
+ 261 compressed objects within 3 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 86182 words of extra memory for PDF output out of 89155 (max. 10000000)
 
